@@ -4,5 +4,5 @@ import picocli.CommandLine;
 
 @CommandLine.Command
 public class Options {
-    @CommandLine.Option()
+    // TODO: Implement WCType Options
 }
